@@ -6,7 +6,8 @@
 
 ### **Image**
 
-![This is an image](https://res.cloudinary.com/zilfa/image/upload/v1654106187/Rock_paper_scissors_ieakmo.png)
+
+<img src="https://res.cloudinary.com/zilfa/image/upload/v1654106187/Rock_paper_scissors_ieakmo.png" width="300" height="300">
 
 <br>
 
