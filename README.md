@@ -17,6 +17,7 @@
 - Install ubuntu
 - Visual code studio
 - Python3
+- Markdown
 
 <br>
 
@@ -41,7 +42,7 @@ git commit
 
 ### **Contact Information**
 ***
-If I can be of any assistance, please do not hesitate to contact me <zilcyam@gmail.com>
+If I can be of any assistance, please do not hesitate to contact me at <zilcyam@gmail.com>
 
 ### **License**
 ---
