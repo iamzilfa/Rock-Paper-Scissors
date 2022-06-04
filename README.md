@@ -39,6 +39,8 @@ git commit
 - [Python random choice() function to select a random item from a List and Set](https://pynative.com/python-random-choice/)
 - [For Loops](https://www.youtube.com/watch?v=P9sIg93Boso&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=19)
 - [While Loops](https://www.youtube.com/watch?v=J8dkgM8Mck0&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=20)
+- [Python rock, paper, scissors game](https://www.youtube.com/watch?v=GhPZHvhvlsk&t=165s)
+-[How to code Rock Paper Scissors (Beginner Python Tutorial)](https://www.youtube.com/watch?v=xRlN8CFJwAM&t=145s)
 
 ### **Contact Information**
 ***
