@@ -37,10 +37,11 @@ git commit
 - [Python Random Module](https://www.w3schools.com/python/module_random.asp)
 - [Introduction to Python Modules](https://www.youtube.com/watch?v=uoVUOTPL9Rw&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=27)
 - [Rock paper scissors - Wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors)
-- [How to Play Rock, Paper, Scissors](https://www.youtube.com/watch?v=ND4fd6yScBM)
 - [Python rock, paper, scissors game](https://www.youtube.com/watch?v=GhPZHvhvlsk&t=165s)
+- [How to Play Rock, Paper, Scissors](https://www.youtube.com/watch?v=ND4fd6yScBM)
 - [How to code Rock Paper Scissors (Beginner Python Tutorial)](https://www.youtube.com/watch?v=xRlN8CFJwAM&t=145s)
 - [Python random choice() function to select a random item from a List and Set](https://pynative.com/python-random-choice/)
+
 
 ### **Contact Information**
 ***
