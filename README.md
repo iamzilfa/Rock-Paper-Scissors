@@ -43,7 +43,6 @@ git commit
 - [Python random choice() function to select a random item from a List and Set](https://pynative.com/python-random-choice/)
 
 
-
 ### **Contact Information**
 ***
 If I can be of any assistance, please do not hesitate to contact me at <zilcyam@gmail.com>
